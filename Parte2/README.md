@@ -8,7 +8,7 @@ En esta sección insertaremos la imágen de la tortuga.
 </center>
 
  ```
-    La clase de imágenes que se recomienda mejor trabajar es *Model Sheet*  
+    La clase de imágenes que se recomienda mejor trabajar es Model Sheet
 ```
 Las siguientes páginas proporcionan Model sheet: 
 + [imgbin.com](https://imgbin.com/)
@@ -18,4 +18,20 @@ Las siguientes páginas proporcionan Model sheet:
 
 ## Inserción de la imagen
 Vamos a la barra de menú y seleccionamos ***Draw->oclock***
-***Front back->Map 1 ->Import***
+
+
+***Front Back->Map 1 ->Import*** Seleccionamos la imagen de la tortuga
+
+***Left Right->Map 1 ->Import*** Seleccionamos la imagen de la tortuga
+
+Después ajustamos
+***Front Back->Adjust***
+
+***Left Right->Adjust***
+
+***Fill Mode***
+
+Lo dejamos en 3 para que este transparente,  este botón esta arriba de ***Front Back***
+
+
+Debemos de deseleccionar el boton Perspectiva para poder hacer el modelado, puedes presionar el botón ***p***
